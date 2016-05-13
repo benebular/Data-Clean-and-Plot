@@ -4,8 +4,8 @@
 % complex in the original study and this is a simplified version testing
 % the visual field.
 % V1: 3/22/15
-% Author:
-% Email: 
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
 
 %% 0 Init
 clear all; %Emptying workspace
