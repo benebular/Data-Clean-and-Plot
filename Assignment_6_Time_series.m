@@ -3,8 +3,8 @@
 % loading a spreadsheet of their responses to a daily survey, processing
 % missing data, and then plotting each response separately, together with
 % z-scores, and finding the correlation between each element.
-% Author:
-% Email:
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
 % V1: 3/26/15
 
 %% 0 Initialization
