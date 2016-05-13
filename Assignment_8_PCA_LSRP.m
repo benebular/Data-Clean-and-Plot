@@ -1,3 +1,10 @@
+%% Assignment 8
+% This code does a PCA on data from candidates that filled out a
+% psychopathy assessment exam.
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
+% The data belongs to Pascal Wallisch.
+
 %% 0 Init
 clc; clear all; close all; %clears the command window, clears teh workspace, and closes all figures
  
