@@ -2,8 +2,8 @@
 % Replicates the experiment paradigm in Posner's Attention Task, records the data,
 % tests for significance, and plots the results in both a graph and report
 % of sigificance.
-% Author:
-% Email:
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
 % V1: 3/3/16
 % V2: 3/5/16
 
