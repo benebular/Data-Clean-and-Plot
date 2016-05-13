@@ -1,4 +1,13 @@
 %% Assignment 7
+%% This code does a Fourrier analysis on a conglomerate group of 100 words
+% from male participants from the Midwest.
+% WARNING: Please be aware of how much memory this code requires.
+% increasing or decreasing the windows in section 4 will change how easily
+% your machine can handle the data. Larger windows usually improve
+% function. It is still advised that you run each spectrogram separately,
+% not the whole code at once.
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
 %V1: 04/05/2016
  
 %% 0 Init
