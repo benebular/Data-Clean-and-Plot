@@ -1,3 +1,8 @@
+%% Assignment 9
+% Replicates the Treisman and Gelade paradigm shown in Assignment 3 of this repository, but integrates it into a GUI interface.
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
+
 function varargout = Assignment_9_GUI(varargin)
 % ASSIGNMENT_9_GUI MATLAB code for Assignment_9_GUI.fig
 %      ASSIGNMENT_9_GUI, by itself, creates a new ASSIGNMENT_9_GUI or raises the existing
