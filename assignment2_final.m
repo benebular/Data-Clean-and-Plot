@@ -1,7 +1,8 @@
 %% Assignment 2 for Scientific Programming of the Behavioral Sciences
 % Purpose: This script will load, process, and categorize data from a spreadsheet (cells). It will then plot multiple histograms of the
 % data gathered for color responses and circadian types in a survey about the Dress.
-% Author: 
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
 % V1 2/18/16
 % V2 2/20/16
 
