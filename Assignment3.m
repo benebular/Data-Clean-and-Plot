@@ -1,8 +1,8 @@
 % Assignment 3 Scientific Programming for the Behvioral Sciences
 % This is a script designed to test reaction times to the popout effect and
 % conjunction effect observed in Treisman & Gelade (1980).
-% Author:
-% Email:
+% Author: Ben Lang
+% Email: ben.lang@nyu.edu
 % V1: 2/27/15
 
 %% 0 Initialization
